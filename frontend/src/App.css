@@ -1,0 +1,5 @@
+body {
+  background-image: url('Screenshot\ \(555\).png');
+  background-size: cover;
+  transition: background-color 0.5s ease;
+}
